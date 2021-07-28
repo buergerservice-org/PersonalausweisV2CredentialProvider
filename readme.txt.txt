@@ -2,7 +2,7 @@
 Personalausweis Credential Provider: This Credential Provider for Windows 10 generates a hash-key 
 from personalausweis-data for Windowslogin
 
-Version: 0.5
+Version: 0.4
 Author: buergerservice.org e.V. <KeePerso@buergerservice.org>
 
 

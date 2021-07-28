@@ -5,6 +5,8 @@ Version: 0.5
 Author: buergerservice.org e.V. <KeePerso@buergerservice.org>  
 
 
+![alt text](https://github.com/[eiddeveloper]/[PersonalausweisV2CredentialProvider]/screenshot1.jpg?raw=true)
+
 -------------
 requirements:
 -------------

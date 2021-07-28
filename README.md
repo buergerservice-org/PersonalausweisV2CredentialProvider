@@ -31,7 +31,10 @@ Please copy the dll-file to ..windows/system32
 then click the registerfile register_PersonalausweisV2CredentialProvider.reg  
 the register will create a new registry-directory  
 
-the admin starts the program setuserregistry.exe user hashkey <optional>userpassword  
+the admin starts the program 
+```
+setuserregistry.exe user hashkey <optional>userpassword  
+```
 the parameter:  
 user - the windowsusername like admin, user1...  
 hashkey - the hashkey of user  
@@ -137,7 +140,9 @@ setuserregistry is a console application that is used for register the userdata 
 like in the installation written obove.  
 
 usage:  
+```
 setuserregistry.exe user hashkey <optional>userpassword  
+```
 user - the windowsusername like admin, user1...  
 hashkey - the hashkey of the user  
 userpassword - this is optional - if the admin types no userpassword a userpassword   

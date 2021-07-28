@@ -56,8 +56,8 @@ and click the unregister-file Unregister_PersonalausweisV2CredentialProvider.reg
 
 
 Link to Programme:  
-if you installed your AusweisApp2 in a directory within german name "Programm" you can use the batch makelinkProgramme  
-to link it to a "Program" link, cause otherwise windows dont find AusweisApp2 for starting.  
+if you installed your AusweisApp2 in a directory within german name "Programme" you can use the batch makelinkProgramme  
+to link it to a "Programs" link, cause otherwise windows dont find AusweisApp2 for starting.  
 Microsoft wrote:  
 https://support.microsoft.com/de-de/topic/der-ordner-c-programme-kann-in-der-deutschen-version-von-windows-vista-oder-windows-7-nicht-ge%C3%B6ffnet-werden-24b333e7-1624-3a21-b2f3-0fa82548e0ee#bkmk_fixitformealways
 

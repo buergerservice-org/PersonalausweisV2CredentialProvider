@@ -131,6 +131,7 @@ https://github.com/DavidWeiss2/windows-Credential-Provider-library
 
 as library we use our own workflowLibrary for connection to AusweisApp2  
 and for use of OpenSSL for hash and encrypt/decrypt passwords in registry.  
+https://github.com/eiddeveloper/workflowLibrary  
 
 
 --------------

@@ -451,7 +451,7 @@ int main(int argc, char** argv)
     //    ciphertextr[i] = tmp2[i];
     //}
     //unsigned char* ciphertextr = new unsigned char[128];
-    //std::string ax = "";
+    //std::string ax = ""; 
     std::vector<uint8_t> cipherregistry;
     serror=GetBinary(hKey, "pw", cipherregistry);
     if (serror != ERROR_SUCCESS) {
